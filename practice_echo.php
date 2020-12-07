@@ -1,3 +1,3 @@
 <?php
-echo 'gitの練習';
+echo 'gitの練習。編集1回';
 ?>
