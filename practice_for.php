@@ -5,10 +5,10 @@
 <title>繰り返し表示</title>
 </head>
 <body>
-<h1><font size="3">1～50までを表示します(3の倍数で"git"を付け加える)</font></h1>
+<h1><font size="3">1～70までを表示します(3の倍数で"git"を付け加える)</font></h1>
 <?php
 //forでカウント
-for ($count = 1; $count <= 50; $count++) {
+for ($count = 1; $count <= 70; $count++) {
 	//カウントを出力
 	echo $count;
 
